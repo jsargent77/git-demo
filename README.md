@@ -1,6 +1,8 @@
 # Demo Git Repository
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-Cray heirloom tumblr, cornhole chillwave sartorial kinfolk meggings hashtag art party. 
+Here are the files in the web site.
+
+1. index.html
